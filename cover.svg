@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title description">
+<title id="title">DG. — Даниил Гончаров, Software Developer</title>
+<desc id="description">Графитовая обложка в стиле Obsidian Steel Blue с монограммой DG, именем Даниил Гончаров и абстрактными металлическими окружностями.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1015"/><stop offset=".55" stop-color="#111B22"/><stop offset="1" stop-color="#080D11"/></linearGradient>
+  <linearGradient id="disc" x1=".08" y1=".05" x2=".95" y2=".9"><stop stop-color="#536B76"/><stop offset=".25" stop-color="#172A32"/><stop offset=".65" stop-color="#090F14"/><stop offset=".86" stop-color="#29414C"/><stop offset="1" stop-color="#89AAB6"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E6F0F3"/><stop offset="1" stop-color="#89ACB9"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#66808A" opacity=".16" stroke-width=".8"/></pattern>
+  <clipPath id="frame"><rect width="1200" height="310" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="310" fill="url(#bg)"/>
+  <rect width="1200" height="310" fill="url(#grid)" opacity=".48"/>
+  <circle cx="1110" cy="65" r="205" fill="url(#disc)" stroke="#91B4BF" stroke-opacity=".26" stroke-width="2"/>
+  <circle cx="958" cy="285" r="144" fill="url(#disc)" stroke="#B2CAD1" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="1128" cy="310" r="90" fill="#0A1116"/>
+  <path d="M794 0V310" stroke="#48616D" stroke-opacity=".33"/>
+  <path d="M25 25h24M25 25v24M1175 285h-24M1175 285v-24" stroke="#A3BBC5" stroke-opacity=".68" stroke-width="1.3" fill="none"/>
+  <text x="68" y="110" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="-7" fill="#F0F4F6">DG<tspan fill="#A2C0CD">.</tspan></text>
+  <path d="M261 44V155" stroke="#68808A" stroke-width="1"/>
+  <text x="292" y="86" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="2.2" fill="#EDF3F5">ДАНИИЛ ГОНЧАРОВ</text>
+  <text x="292" y="120" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400" letter-spacing="3" fill="#A1B9C4">SOFTWARE DEVELOPER</text>
+  <path d="M68 183H668" stroke="#536F7A" stroke-width="1" opacity=".72"/>
+  <text x="69" y="215" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13" letter-spacing="1.1" fill="#B4C9D2">1C / BSL    •    C# / .NET    •    PYTHON    •    WEB</text>
+  <text x="69" y="273" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#7594A2">PERSONAL PORTFOLIO  /  2026</text>
+  <text x="922" y="55" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#B8C9D0">FIG. 01 / OBSIDIAN</text>
+  <path d="M886 247h14m-7-7v14" stroke="#D3E1E5" stroke-width="1.4" opacity=".66"/>
+</g>
+</svg>

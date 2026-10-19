@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="130" viewBox="0 0 732 130" role="img" aria-label="Технологии: 1С, BSL, C#, .NET, Python, Web, JavaScript, HTML, CSS, UI, Git и 1С EDT">
+<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18252E"/><stop offset="1" stop-color="#0C141A"/></linearGradient></defs>
+<g font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#E8F1F4">
+<rect x="1" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="86" y="34">1C / BSL</text>
+<rect x="187" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="272" y="34">C# / .NET</text>
+<rect x="373" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="458" y="34">PYTHON</text>
+<rect x="559" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="644" y="34">WEB</text>
+<rect x="1" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="86" y="105" fill="#A9C4D0">1C:EDT</text>
+<rect x="187" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="272" y="105" fill="#A9C4D0">HTML / JS</text>
+<rect x="373" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="458" y="105" fill="#A9C4D0">CSS / UI</text>
+<rect x="559" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="644" y="105" fill="#A9C4D0">GIT</text>
+</g></svg>
