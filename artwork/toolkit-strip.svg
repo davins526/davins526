@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="156" viewBox="0 0 1200 156" role="img" aria-label="Technical toolkit: Python, 1C / BSL, AI Agents, LLM Systems, Unity, C sharp and System Analysis. Illustrated as scrapbook paper cutouts.">
+<defs><pattern id="noise" width="65" height="49" patternUnits="userSpaceOnUse"><circle cx="8" cy="13" r="1" fill="#EFF1F1" opacity=".13"/><circle cx="48" cy="38" r="1.6" fill="#BCC4CC" opacity=".11"/><path d="M13 35 l9 2 M37 12 l7 -2" stroke="#D5CFCA" opacity=".12"/></pattern></defs>
+<rect width="1200" height="156" fill="#1B2027"/><rect width="1200" height="156" fill="url(#noise)"/>
+<path d="M6 5 L1187 5 M11 152 L1180 152" stroke="#C8C3BB" opacity=".15" stroke-dasharray="8 8"/>
+<g transform="translate(39 45) rotate(-3 104 44)">
+<path d="M0 0 L188 2 L207 73 L7 89Z" fill="#A8B8C9"/>
+<text x="18" y="32" fill="#1C2633" font-size="24" font-family="Georgia,serif" font-weight="bold">CURRENT</text>
+<text x="18" y="61" fill="#1C2633" font-size="27" font-family="Georgia,serif" font-weight="bold">TOOLKIT</text>
+<path d="M14 73 L154 69" stroke="#233343" stroke-width="2"/>
+</g><g transform="translate(260 46) rotate(-2 56 36)">
+<path d="M2 4 L22.400000000000002 1 L53.76 4 L84 0 L112 4 L109 67 L76.16000000000001 72 L38.080000000000005 69 L-1 72Z" fill="#E4E0D9"/>
+<path d="M9 62 L101 62" stroke="#4D5360" opacity=".18"/>
+<text x="56" y="44" text-anchor="middle" fill="#1D2732" font-size="26" font-family="Segoe Print,Comic Sans MS,cursive" textLength="94" lengthAdjust="spacingAndGlyphs">Python</text>
+<path d="M40.32 -8 L77.28 -8 L77.28 11 L40.32 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 56 1)"/>
+</g><g transform="translate(383 52) rotate(2 60.5 36)">
+<path d="M2 4 L24.200000000000003 1 L58.08 4 L90.75 0 L121 4 L118 67 L82.28 72 L41.14 69 L-1 72Z" fill="#C8D1DB"/>
+<path d="M9 62 L110 62" stroke="#4D5360" opacity=".18"/>
+<text x="60.5" y="44" text-anchor="middle" fill="#1D2732" font-size="26" font-family="Segoe Print,Comic Sans MS,cursive" textLength="103" lengthAdjust="spacingAndGlyphs">1C / BSL</text>
+<path d="M43.559999999999995 -8 L83.49 -8 L83.49 11 L43.559999999999995 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 60.5 1)"/>
+</g><g transform="translate(515 48) rotate(-1 62 36)">
+<path d="M2 4 L24.8 1 L59.519999999999996 4 L93 0 L124 4 L121 67 L84.32000000000001 72 L42.160000000000004 69 L-1 72Z" fill="#DED9D1"/>
+<path d="M9 62 L113 62" stroke="#4D5360" opacity=".18"/>
+<text x="62" y="44" text-anchor="middle" fill="#1D2732" font-size="26" font-family="Segoe Print,Comic Sans MS,cursive" textLength="106" lengthAdjust="spacingAndGlyphs">AI Agents</text>
+<path d="M44.64 -8 L85.55999999999999 -8 L85.55999999999999 11 L44.64 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 62 1)"/>
+</g><g transform="translate(650 43) rotate(1 72.5 36)">
+<path d="M2 4 L29 1 L69.6 4 L108.75 0 L145 4 L142 67 L98.60000000000001 72 L49.300000000000004 69 L-1 72Z" fill="#D7E0E6"/>
+<path d="M9 62 L134 62" stroke="#4D5360" opacity=".18"/>
+<text x="72.5" y="44" text-anchor="middle" fill="#1D2732" font-size="23" font-family="Segoe Print,Comic Sans MS,cursive" textLength="127" lengthAdjust="spacingAndGlyphs">LLM Systems</text>
+<path d="M52.199999999999996 -8 L100.05 -8 L100.05 11 L52.199999999999996 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 72.5 1)"/>
+</g><g transform="translate(806 53) rotate(-3 52.5 36)">
+<path d="M2 4 L21 1 L50.4 4 L78.75 0 L105 4 L102 67 L71.4 72 L35.7 69 L-1 72Z" fill="#EAE2D6"/>
+<path d="M9 62 L94 62" stroke="#4D5360" opacity=".18"/>
+<text x="52.5" y="44" text-anchor="middle" fill="#1D2732" font-size="26" font-family="Segoe Print,Comic Sans MS,cursive" textLength="87" lengthAdjust="spacingAndGlyphs">Unity</text>
+<path d="M37.8 -8 L72.44999999999999 -8 L72.44999999999999 11 L37.8 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 52.5 1)"/>
+</g><g transform="translate(922 47) rotate(3 38 36)">
+<path d="M2 4 L15.200000000000001 1 L36.48 4 L57 0 L76 4 L73 67 L51.68000000000001 72 L25.840000000000003 69 L-1 72Z" fill="#B7C9DD"/>
+<path d="M9 62 L65 62" stroke="#4D5360" opacity=".18"/>
+<text x="38" y="44" text-anchor="middle" fill="#1D2732" font-size="26" font-family="Segoe Print,Comic Sans MS,cursive" textLength="58" lengthAdjust="spacingAndGlyphs">C#</text>
+<path d="M27.36 -8 L52.44 -8 L52.44 11 L27.36 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 38 1)"/>
+</g><g transform="translate(1009 50) rotate(-1 81.5 36)">
+<path d="M2 4 L32.6 1 L78.24 4 L122.25 0 L163 4 L160 67 L110.84 72 L55.42 69 L-1 72Z" fill="#DFDFDB"/>
+<path d="M9 62 L152 62" stroke="#4D5360" opacity=".18"/>
+<text x="81.5" y="44" text-anchor="middle" fill="#1D2732" font-size="21" font-family="Segoe Print,Comic Sans MS,cursive" textLength="145" lengthAdjust="spacingAndGlyphs">System Analysis</text>
+<path d="M58.68 -8 L112.46999999999998 -8 L112.46999999999998 11 L58.68 11Z" fill="#91A9C7" opacity=".72" transform="rotate(-5 81.5 1)"/>
+</g>
+</svg>
