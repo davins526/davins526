@@ -1,12 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="732" height="130" viewBox="0 0 732 130" role="img" aria-label="Технологии: 1С, BSL, C#, .NET, Python, Web, JavaScript, HTML, CSS, UI, Git и 1С EDT">
-<defs><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18252E"/><stop offset="1" stop-color="#0C141A"/></linearGradient></defs>
-<g font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#E8F1F4">
-<rect x="1" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="86" y="34">1C / BSL</text>
-<rect x="187" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="272" y="34">C# / .NET</text>
-<rect x="373" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="458" y="34">PYTHON</text>
-<rect x="559" y="1" width="170" height="55" rx="10" fill="url(#card)" stroke="#425E6B"/><text x="644" y="34">WEB</text>
-<rect x="1" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="86" y="105" fill="#A9C4D0">1C:EDT</text>
-<rect x="187" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="272" y="105" fill="#A9C4D0">HTML / JS</text>
-<rect x="373" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="458" y="105" fill="#A9C4D0">CSS / UI</text>
-<rect x="559" y="72" width="170" height="55" rx="10" fill="url(#card)" stroke="#344B56"/><text x="644" y="105" fill="#A9C4D0">GIT</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="732" height="168" viewBox="0 0 732 168" role="img" aria-labelledby="title desc">
+<title id="title">Инструменты и технологии</title><desc id="desc">Четыре бумажные карточки с карандашными надписями: 1С, C# / .NET, Python и Web.</desc>
+<defs><pattern id="speckle" width="29" height="21" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r=".7" fill="#6c6356" opacity=".18"/><circle cx="25" cy="16" r=".5" fill="#6c6356" opacity=".15"/></pattern><filter id="s" x="-12%" y="-12%" width="124%" height="124%"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-opacity=".19"/></filter></defs>
+<g transform="rotate(-1 90 85)" filter="url(#s)">
+ <rect x="5" y="9" width="172" height="145" rx="1" fill="#ede8dc" stroke="#afa89b"/><rect x="5" y="9" width="172" height="145" fill="url(#speckle)"/>
+ <path d="M22 33h37M22 33v22" stroke="#9e6960" stroke-width="1.7" fill="none"/>
+ <text x="22" y="73" font-family="Georgia,serif" font-weight="700" font-size="27" fill="#30322e">1С / BSL</text>
+ <path d="M22 82q66 3 136-2" fill="none" stroke="#b47b6a" stroke-width="1.8"/>
+ <text x="22" y="111" font-family="Arial,sans-serif" font-size="13.8" fill="#4e5e5c">Запросы · регистры</text>
+ <text x="22" y="132" font-family="Arial,sans-serif" font-size="13.8" fill="#4e5e5c">Интеграции</text>
+</g>
+<g transform="rotate(1.3 273 81)" filter="url(#s)">
+ <rect x="188" y="6" width="171" height="146" rx="1" fill="#e5e1d8" stroke="#a9a499"/><rect x="188" y="6" width="171" height="146" fill="url(#speckle)"/>
+ <text x="206" y="34" font-family="Consolas,monospace" letter-spacing="1.5" font-size="11" fill="#966d64">NOTE / 02</text>
+ <text x="205" y="73" font-family="Georgia,serif" font-weight="700" font-size="26" fill="#30322e">C# / .NET</text>
+ <path d="M206 84l132-2" fill="none" stroke="#798d89" stroke-width="2"/>
+ <text x="206" y="112" font-family="Arial,sans-serif" font-size="13.7" fill="#4e5e5c">Приложения</text>
+ <text x="206" y="133" font-family="Arial,sans-serif" font-size="13.7" fill="#4e5e5c">и сервисы</text>
+</g>
+<g transform="rotate(-.8 455 82)" filter="url(#s)">
+ <rect x="371" y="9" width="171" height="145" rx="1" fill="#efe8d9" stroke="#afa89b"/><rect x="371" y="9" width="171" height="145" fill="url(#speckle)"/>
+ <path d="M386 27l9 8 10-8" fill="none" stroke="#a6776f" stroke-width="1.6"/>
+ <text x="390" y="72" font-family="Georgia,serif" font-weight="700" font-size="28" fill="#30322e">Python</text>
+ <path d="M389 82q58 3 133-2" fill="none" stroke="#b47b6a" stroke-width="1.8"/>
+ <text x="389" y="111" font-family="Arial,sans-serif" font-size="13.7" fill="#4e5e5c">Автоматизация</text>
+ <text x="389" y="132" font-family="Arial,sans-serif" font-size="13.7" fill="#4e5e5c">и инструменты</text>
+</g>
+<g transform="rotate(1 642 82)" filter="url(#s)">
+ <rect x="554" y="7" width="171" height="146" rx="1" fill="#e5e8e3" stroke="#a3aaa3"/><rect x="554" y="7" width="171" height="146" fill="url(#speckle)"/>
+ <text x="570" y="34" font-family="Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#966d64">NOTE / 04</text>
+ <text x="571" y="73" font-family="Georgia,serif" font-weight="700" font-size="28" fill="#30322e">Web / UI</text>
+ <path d="M571 83l132-2" fill="none" stroke="#798d89" stroke-width="2"/>
+ <text x="571" y="111" font-family="Arial,sans-serif" font-size="13.6" fill="#4e5e5c">HTML · CSS · JS</text>
+ <text x="571" y="132" font-family="Arial,sans-serif" font-size="13.6" fill="#4e5e5c">Интерфейсы</text>
+</g>
+</svg>
