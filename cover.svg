@@ -1,29 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title description">
-<title id="title">DG. — Даниил Гончаров, Software Developer</title>
-<desc id="description">Графитовая обложка в стиле Obsidian Steel Blue с монограммой DG, именем Даниил Гончаров и абстрактными металлическими окружностями.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Даниил Гончаров — записная книжка разработчика</title>
+<desc id="desc">Обложка на тёплой бумаге: графитовая типографика, карандашные пометки и зарисовка белой бабочки на полароидном снимке.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1015"/><stop offset=".55" stop-color="#111B22"/><stop offset="1" stop-color="#080D11"/></linearGradient>
-  <linearGradient id="disc" x1=".08" y1=".05" x2=".95" y2=".9"><stop stop-color="#536B76"/><stop offset=".25" stop-color="#172A32"/><stop offset=".65" stop-color="#090F14"/><stop offset=".86" stop-color="#29414C"/><stop offset="1" stop-color="#89AAB6"/></linearGradient>
-  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E6F0F3"/><stop offset="1" stop-color="#89ACB9"/></linearGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#66808A" opacity=".16" stroke-width=".8"/></pattern>
-  <clipPath id="frame"><rect width="1200" height="310" rx="18"/></clipPath>
+ <pattern id="grain" width="49" height="39" patternUnits="userSpaceOnUse"><circle cx="7" cy="10" r="1" fill="#8b8577" opacity=".16"/><circle cx="35" cy="29" r=".8" fill="#887f71" opacity=".15"/><path d="M20 26l3-1M43 5l-2 2" stroke="#b4ad9d" opacity=".22"/></pattern>
+ <pattern id="ruled" width="1200" height="35" patternUnits="userSpaceOnUse"><path d="M0 34.5H1200" stroke="#a6b3b0" stroke-width="1" opacity=".24"/></pattern>
+ <filter id="paperShadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="1" dy="5" stdDeviation="7" flood-color="#4b4038" flood-opacity=".24"/></filter>
+ <clipPath id="photoArea"><rect x="0" y="0" width="235" height="225" rx="1"/></clipPath>
 </defs>
-<g clip-path="url(#frame)">
-  <rect width="1200" height="310" fill="url(#bg)"/>
-  <rect width="1200" height="310" fill="url(#grid)" opacity=".48"/>
-  <circle cx="1110" cy="65" r="205" fill="url(#disc)" stroke="#91B4BF" stroke-opacity=".26" stroke-width="2"/>
-  <circle cx="958" cy="285" r="144" fill="url(#disc)" stroke="#B2CAD1" stroke-opacity=".38" stroke-width="2"/>
-  <circle cx="1128" cy="310" r="90" fill="#0A1116"/>
-  <path d="M794 0V310" stroke="#48616D" stroke-opacity=".33"/>
-  <path d="M25 25h24M25 25v24M1175 285h-24M1175 285v-24" stroke="#A3BBC5" stroke-opacity=".68" stroke-width="1.3" fill="none"/>
-  <text x="68" y="110" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="-7" fill="#F0F4F6">DG<tspan fill="#A2C0CD">.</tspan></text>
-  <path d="M261 44V155" stroke="#68808A" stroke-width="1"/>
-  <text x="292" y="86" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="2.2" fill="#EDF3F5">ДАНИИЛ ГОНЧАРОВ</text>
-  <text x="292" y="120" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400" letter-spacing="3" fill="#A1B9C4">SOFTWARE DEVELOPER</text>
-  <path d="M68 183H668" stroke="#536F7A" stroke-width="1" opacity=".72"/>
-  <text x="69" y="215" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13" letter-spacing="1.1" fill="#B4C9D2">1C / BSL    •    C# / .NET    •    PYTHON    •    WEB</text>
-  <text x="69" y="273" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12" letter-spacing="1.5" fill="#7594A2">PERSONAL PORTFOLIO  /  2026</text>
-  <text x="922" y="55" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.2" fill="#B8C9D0">FIG. 01 / OBSIDIAN</text>
-  <path d="M886 247h14m-7-7v14" stroke="#D3E1E5" stroke-width="1.4" opacity=".66"/>
+<rect width="1200" height="420" rx="8" fill="#e9e3d7"/>
+<rect width="1200" height="420" rx="8" fill="url(#grain)"/>
+<rect width="1200" height="420" rx="8" fill="url(#ruled)"/>
+<path d="M94 0V420" fill="none" stroke="#ac6964" stroke-width="2" opacity=".43"/>
+<path d="M20 28l16-4 8 4 21-4M19 390l28 2 11-3" fill="none" stroke="#776f64" stroke-width="1.5" opacity=".33"/>
+<path d="M116 56h35M116 56v25" stroke="#596e74" stroke-width="1.6" opacity=".65" fill="none"/>
+<text x="139" y="83" fill="#7c534c" font-family="Consolas,'DejaVu Sans Mono',monospace" font-weight="700" font-size="17" letter-spacing="3.2">FIELD NOTES</text>
+<text x="335" y="83" fill="#77736b" font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="1.6">/ VOL. 01</text>
+<path d="M137 96l268-3" stroke="#927b70" stroke-width="1.2" opacity=".55" fill="none"/>
+<text x="135" y="169" fill="#30302e" font-family="Georgia,'Liberation Serif',serif" font-size="79" font-weight="700" letter-spacing="-1">ДАНИИЛ</text>
+<text x="135" y="247" fill="#30302e" font-family="Georgia,'Liberation Serif',serif" font-size="79" font-weight="700" letter-spacing="-1">ГОНЧАРОВ</text>
+<path d="M133 264 Q341 258 615 263" fill="none" stroke="#615d56" stroke-width="2.7" opacity=".7"/>
+<path d="M134 270Q345 270 575 266" fill="none" stroke="#999184" stroke-width="1.1" opacity=".52"/>
+<text x="137" y="313" fill="#394c50" font-family="Arial,'DejaVu Sans',sans-serif" font-size="21" font-weight="700" letter-spacing="3">SOFTWARE DEVELOPER</text>
+<text x="138" y="350" fill="#5a5c56" font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="17" letter-spacing=".5">1C / BSL  ·  C# / .NET  ·  PYTHON  ·  WEB</text>
+<text x="139" y="387" fill="#995b55" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="20" font-style="italic">notes on projects, systems &amp; ideas</text>
+<path d="M626 312q48 8 77-18t52-21" fill="none" stroke="#a16e60" stroke-width="2.4" stroke-dasharray="3 8" stroke-linecap="round" opacity=".72"/>
+<path d="M741 266l15 7-10 14" fill="none" stroke="#a16e60" stroke-width="2.4" stroke-linejoin="round" opacity=".72"/>
+<text x="741" y="258" fill="#846d63" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="19" transform="rotate(-10 741 258)">fig. 01</text>
+<g transform="rotate(5 1010 210)" filter="url(#paperShadow)">
+ <rect x="866" y="37" width="283" height="352" fill="#f5f0e5" stroke="#ccc2b3" stroke-width="2"/>
+ <rect x="889" y="60" width="237" height="240" fill="#1e2020"/>
+ <g transform="translate(890 65) scale(.78)">
+  <g fill="none" stroke="#8e9694" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".75" transform="translate(16 -11)">
+   <path d="M145 148C110 94 44 81 33 120C24 155 74 181 138 167"/>
+   <path d="M151 147C151 91 174 36 204 30C245 25 233 99 190 139C176 153 167 159 157 164"/>
+   <path d="M164 162C215 132 271 139 276 173C282 213 218 212 169 185"/>
+   <path d="M154 182C189 222 191 264 164 274C129 284 126 232 143 186"/>
+   <path d="M142 175C83 160 62 200 83 235C106 272 137 220 148 188"/>
+  </g>
+  <g fill="none" stroke="#f5f2eb" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M145 148C110 94 44 81 33 120C24 155 74 181 138 167"/>
+   <path d="M151 147C151 91 174 36 204 30C245 25 233 99 190 139C176 153 167 159 157 164"/>
+   <path d="M164 162C215 132 271 139 276 173C282 213 218 212 169 185"/>
+   <path d="M154 182C189 222 191 264 164 274C129 284 126 232 143 186"/>
+   <path d="M142 175C83 160 62 200 83 235C106 272 137 220 148 188"/>
+   <path d="M151 142C142 153 143 182 153 195C163 182 166 168 159 149"/>
+  </g>
+  <g fill="none" stroke="#f5f2eb" stroke-width="4.2" stroke-linecap="round" opacity=".96">
+   <path d="M141 150Q83 121 47 124M136 160Q89 160 50 144M143 157Q111 115 76 110"/>
+   <path d="M160 137Q168 69 203 45M170 145Q217 91 219 53M181 142Q225 122 230 90"/>
+   <path d="M176 171Q227 162 264 174M176 184Q230 194 264 187"/>
+   <path d="M153 197Q157 231 165 261M143 188Q113 201 94 233"/>
+  </g>
+  <g fill="#f5f2eb"><circle cx="147" cy="125" r="4"/><circle cx="158" cy="112" r="3"/><circle cx="169" cy="126" r="3"/></g>
+ </g>
+ <text x="889" y="335" fill="#4c4c46" font-family="'Segoe Print','Comic Sans MS',cursive" font-size="17" font-style="italic">a little mark in the margins</text>
+ <text x="890" y="365" fill="#9a6c62" font-family="Consolas,monospace" font-size="12" letter-spacing="2">PHOTO / 001</text>
 </g>
+<g transform="rotate(-11 944 40)">
+ <path d="M920 14h86l-5 35h-88z" fill="#9caba5" opacity=".54"/>
+ <path d="M918 17h90" stroke="#f1eee4" stroke-width="2" opacity=".48"/>
+</g>
+<path d="M802 367q9 18 24 0t26 2" fill="none" stroke="#8b887e" stroke-width="1.6" opacity=".7"/>
+<text x="742" y="399" fill="#857e73" font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="1.3">PERSONAL ARCHIVE  /  2026</text>
 </svg>
