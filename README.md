@@ -1,43 +1,43 @@
-# davins526
-![DG. / OBSIDIAN — Даниил Гончаров](./cover.svg)
+<!--
+  PERSONAL DIARY / DESIGN REVISION 02
+  Illustrations and layout are original. Letterforms are vector outlines rendered from Neucha (SIL OFL 1.1).
+  Text-only transcript below preserves copy/paste and accessibility on GitHub.
+-->
+<p align="center"><img src="./cover.svg" alt="Даниил Гончаров — дневник разработчика. 1С / BSL, C# / .NET, Python, Web." width="100%" /></p>
 
-**Software Developer · 1С / BSL · C# / .NET · Python · Web**
+<p align="center"><a href="https://davins526.github.io/"><b>Портфолио</b></a> &nbsp; · &nbsp; <a href="https://github.com/davins526?tab=repositories">Все репозитории</a></p>
 
-Разрабатываю прикладные решения, интеграции и интерфейсы. Основное рабочее направление — **1С:Предприятие**. 
-Люблю понятную архитектуру, надёжную логику и дизайн, который помогает решать задачи.
+<img src="./about.svg" alt="Обо мне: разрабатываю прикладные решения, интеграции и интерфейсы. Работаю с 1С. Люблю архитектуру и продуманный дизайн." width="100%" />
 
-**[Смотреть портфолио ↗](https://davins526.github.io/)** &nbsp;·&nbsp; [Мои репозитории ↗](https://github.com/davins526?tab=repositories)
+<img src="./stack.svg" alt="Мои инструменты: 1С / BSL, C# / .NET, Python, Web / UI, интеграции, Git и 1С:EDT" width="100%" />
 
-<br clear="right" />
+<img src="./projects.svg" alt="Избранные проекты: Обмен с УСЗН, Выгрузка ЕПД, kv-plata.ru, GameJester" width="100%" />
 
----
+<p align="center">
+<a href="https://github.com/davins526/ToDoList">ToDoList</a> &nbsp;·&nbsp;
+<a href="https://github.com/davins526/CalculatorATR">CalculatorATR</a> &nbsp;·&nbsp;
+<a href="https://github.com/davins526/StorePet">StorePet</a>
+</p>
 
-### Технологии и направления
+<details>
+<summary>Текстовая версия / Подробнее о проектах и технологиях</summary>
 
-![Стек технологий](./stack.svg)
+### Даниил Гончаров — Software Developer
 
-| Основное | Работаю и развиваю |
-|:--|:--|
-| **1С / интеграции** | BSL, запросы, регистры, внешние обработки, обмен DBF / TXT |
-| **Разработка** | C# / .NET, Python |
-| **Web / интерфейсы** | HTML, CSS, JavaScript, UI/UX, 1С-Битрикс |
-| **Инструменты** | Git, GitHub, 1С:EDT |
+Разрабатываю прикладные решения, интеграции и интерфейсы. Основное рабочее направление — **1С:Предприятие**. Мне близки понятная архитектура, надёжная логика и дизайн, который помогает решать задачи.
 
-### Избранные проекты
+**Технологии:** 1С / BSL (запросы, регистры, внешние обработки, интеграции и обмен DBF / TXT); C# / .NET; Python; HTML, CSS, JavaScript, UI/UX, 1С-Битрикс; Git, GitHub, 1С:EDT.
 
-| Кейс | В двух словах | Статус |
-|:--|:--|:--|
-| **Обмен с УСЗН** | DBF, сопоставление адресов и лицевых счетов, гибкие правила услуг | Реализовано |
-| **Выгрузка ЕПД** | Формирование файлов A / L / I и проверка формата обмена | Передано на проверку |
-| **kv-plata.ru** | Редизайн корпоративного сайта и дизайн-система | В работе |
-| **GameJester** | Авторская игра об интригах придворного шута | В разработке |
+**Обмен с УСЗН** — реализовано. DBF, сопоставление адресов и лицевых счетов, гибкие правила услуг.
 
-<sub>Коммерческие кейсы описаны без клиентских данных и закрытого исходного кода. Подробности — в портфолио.</sub>
+**Выгрузка ЕПД** — передано на проверку. Формирование файлов A / L / I и проверка формата обмена.
 
-### Публичный код
+**kv-plata.ru** — в работе. Редизайн корпоративного сайта и дизайн-система.
 
-[ToDoList](https://github.com/davins526/ToDoList) &nbsp;·&nbsp; [CalculatorATR](https://github.com/davins526/CalculatorATR) &nbsp;·&nbsp; [StorePet](https://github.com/davins526/StorePet)
+**GameJester** — в разработке. Авторская игра об интригах придворного шута.
 
----
+Коммерческие кейсы описаны без клиентских данных и закрытого исходного кода.
 
-<sub>1С:Профессионал · DG. / OBSIDIAN · © 2026</sub>
+</details>
+
+<sub>1С:Профессионал · Даниил Гончаров · © 2026</sub>
